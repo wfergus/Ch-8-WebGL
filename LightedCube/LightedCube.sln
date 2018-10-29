@@ -1,0 +1,90 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LightedCube", "LightedCube\", "{542D7B47-F6AE-466E-A75A-E5F8013E14DF}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_1037"
+		Debug.AspNetCompiler.PhysicalPath = "LightedCube\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1037\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_1037"
+		Release.AspNetCompiler.PhysicalPath = "LightedCube\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1037\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1037"
+		SlnRelativePath = "LightedCube\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LightedTranslatedRotatedCube", "LightedTranslatedRotatedCube\", "{D590DF2E-3D1A-4ACC-9732-7C3D3A85A2A6}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_1281"
+		Debug.AspNetCompiler.PhysicalPath = "LightedTranslatedRotatedCube\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1281\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_1281"
+		Release.AspNetCompiler.PhysicalPath = "LightedTranslatedRotatedCube\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1281\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1281"
+		SlnRelativePath = "LightedTranslatedRotatedCube\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PointLightedCube", "PointLightedCube\", "{AEB0EBF5-17AB-4FDB-9830-3CEBCF8E5F58}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_1446"
+		Debug.AspNetCompiler.PhysicalPath = "PointLightedCube\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1446\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_1446"
+		Release.AspNetCompiler.PhysicalPath = "PointLightedCube\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1446\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1446"
+		SlnRelativePath = "PointLightedCube\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{542D7B47-F6AE-466E-A75A-E5F8013E14DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{542D7B47-F6AE-466E-A75A-E5F8013E14DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D590DF2E-3D1A-4ACC-9732-7C3D3A85A2A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D590DF2E-3D1A-4ACC-9732-7C3D3A85A2A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB0EBF5-17AB-4FDB-9830-3CEBCF8E5F58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB0EBF5-17AB-4FDB-9830-3CEBCF8E5F58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60DDD56C-8E71-46FA-A4CF-8EE9F9114B0D}
+	EndGlobalSection
+EndGlobal
